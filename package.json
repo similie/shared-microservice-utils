@@ -1,6 +1,6 @@
 {
   "name": "@similie/shared-microservice-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple package for shared utilities for our microservices",
   "main": "./dist/index.js",
   "type": "commonjs",
