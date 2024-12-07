@@ -1,0 +1,23 @@
+*.code-workspace
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+coverage/
+
+drizzle
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# Env files
+.env
+
+# Others
+.vscode/
